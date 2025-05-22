@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": ["fff", "ece", " r "],
+  "key": {
+    "f": ["minecraft:feather"],
+    "c": ["minecraft:cake"],
+    "e": ["minecraft:ender_pearl"],
+    "r": ["minecraft:redstone"]
+  },
+  "result": {
+    "id": "minecraft:sculk_sensor",
+    "count": 1
+  },
+  "show_notification": true
+}

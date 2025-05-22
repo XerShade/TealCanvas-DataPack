@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [["minecraft:leather"]],
+  "result": {
+    "id": "minecraft:rabbit_hide",
+    "count": 4
+  },
+  "show_notification": true
+}

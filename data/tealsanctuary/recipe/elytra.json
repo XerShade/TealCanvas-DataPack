@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#L#", "LEL", "LDL"],
+  "key": {
+    "#": ["minecraft:string"],
+    "L": ["minecraft:leather"],
+    "E": ["minecraft:ender_eye"],
+    "D": ["minecraft:diamond"]
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  },
+  "show_notification": true
+}

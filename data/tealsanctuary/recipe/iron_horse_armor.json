@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  i", "iii", "iSi"],
+  "key": {
+    "i": ["minecraft:iron_ingot"],
+    "S": ["minecraft:saddle"]
+  },
+  "result": {
+    "id": "minecraft:iron_horse_armor",
+    "count": 1
+  },
+  "show_notification": true
+}
