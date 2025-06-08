@@ -10,8 +10,8 @@
         }
       ],
       "biome":"minecraft:plains",
-      "structures": false,
-      "features": false
+      "features": false,
+      "structure_overrides": []
     }
   }
 }

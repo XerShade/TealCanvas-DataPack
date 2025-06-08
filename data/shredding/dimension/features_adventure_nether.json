@@ -6,7 +6,6 @@
     "biome_source": {
       "type": "minecraft:multi_noise",
       "preset": "minecraft:nether"
-    },
-    "seed": 179155338
+    }
   }
 }
