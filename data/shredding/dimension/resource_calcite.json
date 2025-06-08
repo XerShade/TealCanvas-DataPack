@@ -13,8 +13,9 @@
           "height": 12
         }
       ],
-      "biome": "minecraft:plains",
-      "structures": {}
+      "biome":"minecraft:plains",
+      "structures": false,
+      "features": false
     }
   }
 }

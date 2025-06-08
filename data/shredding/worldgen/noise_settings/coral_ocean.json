@@ -1,0 +1,39 @@
+{
+  "sea_level": 63,
+  "disable_mob_generation": false,
+  "default_block": "minecraft:sand",
+  "default_fluid": "minecraft:water",
+  "noise": {
+    "min_y": -64,
+    "height": 384,
+    "size_horizontal": 1,
+    "size_vertical": 2
+  },
+  "terrain_shaper": {
+    "offset": 0.0,
+    "factor": 1.0,
+    "jaggedness": 0.0
+  },
+  "density": {
+    "bottom_slide": {
+      "target": -64,
+      "size": 8,
+      "offset": -64
+    },
+    "top_slide": {
+      "target": 384,
+      "size": 8,
+      "offset": 384
+    },
+    "noise_to_density": "minecraft:overworld"
+  },
+  "surface_rule": {
+    "type": "minecraft:surface",
+    "config": "minecraft:overworld"
+  },
+  "spawn_target": {
+    "heightmap": "WORLD_SURFACE_WG",
+    "offset": 0
+  },
+  "noise_router": "minecraft:overworld"
+}

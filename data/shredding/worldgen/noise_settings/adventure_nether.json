@@ -1,0 +1,39 @@
+{
+  "sea_level": 32,
+  "disable_mob_generation": false,
+  "default_block": "minecraft:netherrack",
+  "default_fluid": "minecraft:lava",
+  "noise": {
+    "min_y": 0,
+    "height": 128,
+    "size_horizontal": 4,
+    "size_vertical": 3
+  },
+  "terrain_shaper": {
+    "offset": 0.0,
+    "factor": 1.0,
+    "jaggedness": 0.0
+  },
+  "density": {
+    "bottom_slide": {
+      "target": 0,
+      "size": 8,
+      "offset": 0
+    },
+    "top_slide": {
+      "target": 128,
+      "size": 8,
+      "offset": 128
+    },
+    "noise_to_density": "minecraft:nether"
+  },
+  "surface_rule": {
+    "type": "minecraft:surface",
+    "config": "minecraft:nether"
+  },
+  "spawn_target": {
+    "heightmap": "WORLD_SURFACE_WG",
+    "offset": 0
+  },
+  "noise_router": "minecraft:nether"
+}

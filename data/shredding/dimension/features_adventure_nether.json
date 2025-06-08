@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:overworld",
+  "type": "minecraft:the_nether",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "shredding:adventure",
+    "settings": "shredding:adventure_nether",
     "biome_source": {
       "type": "minecraft:multi_noise",
-      "preset": "minecraft:overworld"
+      "preset": "minecraft:nether"
     },
     "seed": 179155338
   }

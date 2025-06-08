@@ -14,7 +14,8 @@
         }
       ],
       "biome": "minecraft:plains",
-      "structures": {}
+      "structures": false,
+      "features": false
     }
   }
 }

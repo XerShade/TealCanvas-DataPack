@@ -4,8 +4,8 @@
     "type": "minecraft:noise",
     "biome_source": {
       "type": "minecraft:fixed",
-      "biome": "minecraft:deep_ocean"
+      "biome": "minecraft:warm_ocean"
     },
-    "settings": "minecraft:overworld"
+    "settings": "shredding:coral_ocean"
   }
 }

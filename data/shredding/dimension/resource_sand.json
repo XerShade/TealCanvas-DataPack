@@ -9,12 +9,17 @@
           "height": 1
         },
         {
+          "block": "minecraft:sandstone",
+          "height": 4
+        },
+        {
           "block": "minecraft:sand",
-          "height": 12
+          "height": 8
         }
       ],
       "biome": "minecraft:plains",
-      "structures": {}
+      "structures": false,
+      "features": false
     }
   }
 }

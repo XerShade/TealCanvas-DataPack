@@ -9,8 +9,9 @@
           "height": 1
         }
       ],
-      "biome": "minecraft:plains",
-      "structures": {}
+      "biome":"minecraft:plains",
+      "structures": false,
+      "features": false
     }
   }
 }
